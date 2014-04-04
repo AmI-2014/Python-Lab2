@@ -3,6 +3,7 @@
 	<name>python.lab2</name>
 	<comment></comment>
 	<projects>
+		<project>python.software</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
